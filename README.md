@@ -20,7 +20,7 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 - Data Visualization
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 📁 Files Included
 - `.pbix` file – Power BI report
